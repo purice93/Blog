@@ -3,6 +3,7 @@ title: mysql数据库进阶-leetcode-10道
 tags: 新建,模板,小书匠
 grammar_cjkRuby: true
 ---
+**数据库练习链接：https://leetcode.com/problemset/database/**
 ### 175. Combine Two Tables
 解析：问题为联合查询两个表Person和Address的数据，无论address中是否有person对应的数据。即输出所有的person数据，address中没有的数据显示为空
 考察：内连接、外连接（左连接、右连接）
