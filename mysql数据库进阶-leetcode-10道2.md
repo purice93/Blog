@@ -3,6 +3,9 @@ title: mysql数据库进阶-leetcode-10道2
 tags: 新建,模板,小书匠
 grammar_cjkRuby: true
 ---
+>其他题目需要money解锁-.-
+
+
 ### 196. Delete Duplicate Emails
 解析：删除重复值邮箱
 答案：`DELETE P1 FROM Person p1,Person P2 WHERE P1.Email = P2.Email AND P1.Id > P2.Id`
